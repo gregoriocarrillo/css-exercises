@@ -1,0 +1,19 @@
+.number {
+    background-color: rgb(255, 155, 155);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#two {
+    color: #2f00ff;
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#four {
+    background-color: hsl(130, 100%, 75%);
+    font-weight: bold;
+    font-size: 24px;
+}
